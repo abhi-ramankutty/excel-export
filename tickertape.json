@@ -1,0 +1,2962 @@
+{
+    "result": [
+        {
+            "mfId": "M_UTXU",
+            "slug": "/mutualfunds/uti-nifty-50-index-fund-M_UTXU",
+            "name": "UTI Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.04444862202588512
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 13626.6326
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.21
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_HD5Y",
+            "slug": "/mutualfunds/hdfc-index-fund-nifty-50-plan-M_HD5Y",
+            "name": "HDFC Index Fund-NIFTY 50 Plan",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 9809.2622
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.04603607281252387
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_HDCIN",
+            "slug": "/mutualfunds/hdfc-index-fund-sp-bse-sensex-M_HDCIN",
+            "name": "HDFC Index Fund-S&P BSE Sensex",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 5852.710300000001
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.0761976377586602
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICIDX",
+            "slug": "/mutualfunds/icici-pru-nifty-50-index-fund-M_ICIDX",
+            "name": "ICICI Pru Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 5732.845478804
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.17
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.04762352359916264
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_SBYF",
+            "slug": "/mutualfunds/sbi-nifty-index-fund-M_SBYF",
+            "name": "SBI Nifty Index Fund",
+            "values": [
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.04603607281252387
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 5088.9407
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.18
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_UT2U",
+            "slug": "/mutualfunds/uti-nifty200-momentum-30-index-fund-M_UT2U",
+            "name": "UTI Nifty200 Momentum 30 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.46
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.180969389676818
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 3149.5278000000003
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICIYX",
+            "slug": "/mutualfunds/icici-pru-nifty-next-50-index-fund-M_ICIYX",
+            "name": "ICICI Pru Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 2990.6736004008
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05873567910563392
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_UTNN",
+            "slug": "/mutualfunds/uti-nifty-next-50-index-fund-M_UTNN",
+            "name": "UTI Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.34
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.06667293303882768
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 2728.0826
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICSN",
+            "slug": "/mutualfunds/icici-pru-sp-bse-sensex-index-fund-M_ICSN",
+            "name": "ICICI Pru S&P BSE Sensex Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.16
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05873567910563392
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 1199.3897374702
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NIXY",
+            "slug": "/mutualfunds/nippon-india-index-fund-nifty-50-plan-M_NIXY",
+            "name": "Nippon India Index Fund-Nifty 50 Plan",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 1127.7661
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05079842517244015
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NAVI",
+            "slug": "/mutualfunds/navi-nifty-50-index-fund-M_NAVI",
+            "name": "Navi Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 1061.368323
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.06
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.0523858759590789
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOTY",
+            "slug": "/mutualfunds/motilal-oswal-nifty-midcap-150-index-fund-M_MOTY",
+            "name": "Motilal Oswal Nifty Midcap 150 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 1013.0075999999999
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.07937253933193772
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_AXIX",
+            "slug": "/mutualfunds/axis-nifty-100-index-fund-M_AXIX",
+            "name": "Axis Nifty 100 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 971.976896
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.21
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05873567910563392
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_IDFNN",
+            "slug": "/mutualfunds/bandhan-nifty-50-index-fund-M_IDFNN",
+            "name": "Bandhan Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.1
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.06032312989227267
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 931.7094000000001
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NIT0",
+            "slug": "/mutualfunds/nippon-india-nifty-midcap-150-index-fund-M_NIT0",
+            "name": "Nippon India Nifty Midcap 150 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 848.465400000001
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.08572234247849274
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NIPA",
+            "slug": "/mutualfunds/nippon-india-nifty-smallcap-250-index-fund-M_NIPA",
+            "name": "Nippon India Nifty Smallcap 250 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 832.8807
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.32
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.11905880899790658
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_DSEN",
+            "slug": "/mutualfunds/dsp-nifty-50-equal-weight-index-fund-M_DSEN",
+            "name": "DSP Nifty 50 Equal Weight Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 752.2601
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.4
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.03968626966596886
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_HD5W",
+            "slug": "/mutualfunds/hdfc-nifty50-equal-weight-index-fund-M_HD5W",
+            "name": "HDFC NIFTY50 Equal Weight Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 717.0403
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.4
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.04603607281252387
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ADIXD",
+            "slug": "/mutualfunds/aditya-birla-sl-nifty-50-index-fund-M_ADIXD",
+            "name": "Aditya Birla SL Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05873567910563392
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 627.726
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOT5",
+            "slug": "/mutualfunds/motilal-oswal-nifty-500-index-fund-M_MOT5",
+            "name": "Motilal Oswal Nifty 500 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.37
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.04127372045260761
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 600.4169999999999
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NIEG",
+            "slug": "/mutualfunds/nippon-india-index-fund-sp-bse-sensex-plan-M_NIEG",
+            "name": "Nippon India Index Fund-S&P BSE Sensex Plan",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 578.601
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.18
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.06032312989227267
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOAN",
+            "slug": "/mutualfunds/motilal-oswal-nifty-microcap-250-index-fund-M_MOAN",
+            "name": "Motilal Oswal Nifty Microcap 250 Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 573.0672
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.35
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.28097878923505953
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_SBY0",
+            "slug": "/mutualfunds/sbi-nifty-next-50-index-fund-M_SBY0",
+            "name": "SBI Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 555.0409
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.34
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05079842517244015
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_FRNX",
+            "slug": "/mutualfunds/franklin-india-nse-nifty-50-index-fund-M_FRNX",
+            "name": "Franklin India NSE Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 539.914428313
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.24
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.3730509348601073
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_TANX",
+            "slug": "/mutualfunds/tata-nifty-50-index-fund-M_TANX",
+            "name": "Tata NIFTY 50 Index Fund",
+            "values": [
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.06349803146555018
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 527.9023267360001
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOTM",
+            "slug": "/mutualfunds/motilal-oswal-nifty-smallcap-250-index-fund-M_MOTM",
+            "name": "Motilal Oswal Nifty Smallcap 250 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.36
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.08889724405177024
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 512.1537000000001
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOTT",
+            "slug": "/mutualfunds/motilal-oswal-nifty-bank-index-fund-M_MOTT",
+            "name": "Motilal Oswal Nifty Bank Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 485.12669999999997
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.33
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.0698478346121052
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NAVY",
+            "slug": "/mutualfunds/navi-nifty-bank-index-fund-M_NAVY",
+            "name": "Navi Nifty Bank Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 427.227497
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.1
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.06191058067891142
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NI5T",
+            "slug": "/mutualfunds/nippon-india-nifty-50-value-20-index-fund-M_NI5T",
+            "name": "Nippon India Nifty 50 Value 20 Index Fund",
+            "values": [
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05714822831899516
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 423.3515
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_DSNY",
+            "slug": "/mutualfunds/dsp-nifty-50-index-fund-M_DSNY",
+            "name": "DSP NIFTY 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 417.98629999999997
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.22
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05079842517244015
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_SBY2",
+            "slug": "/mutualfunds/sbi-nifty-smallcap-250-index-fund-M_SBY2",
+            "name": "SBI Nifty Smallcap 250 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 399.3707
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.41
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05556077753235641
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_KOYG",
+            "slug": "/mutualfunds/kotak-nifty-50-index-fund-M_KOYG",
+            "name": "Kotak Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.21
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.10000939955824154
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 391.7744
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOTN",
+            "slug": "/mutualfunds/motilal-oswal-nifty-50-index-fund-M_MOTN",
+            "name": "Motilal Oswal Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 363.94919999999996
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.14
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.04921097438580139
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_HDCN5",
+            "slug": "/mutualfunds/hdfc-nifty-next-50-index-fund-M_HDCN5",
+            "name": "HDFC NIFTY Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 356.0147
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05714822831899516
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_AXSX",
+            "slug": "/mutualfunds/axis-nifty-50-index-fund-M_AXSX",
+            "name": "Axis Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 348.539399
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.12
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.08889724405177024
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICCTX",
+            "slug": "/mutualfunds/icici-pru-nifty-it-index-fund-M_ICCTX",
+            "name": "ICICI Pru Nifty IT Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.35
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.23494271642253567
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 313.0375348191
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_DSNI",
+            "slug": "/mutualfunds/dsp-nifty-next-50-index-fund-M_DSNI",
+            "name": "DSP NIFTY Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.06667293303882768
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 296.8905
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICIKX",
+            "slug": "/mutualfunds/icici-pru-nifty-bank-index-fund-M_ICIKX",
+            "name": "ICICI Pru Nifty Bank Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 266.6842618674
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.10635920270479655
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_TAIX",
+            "slug": "/mutualfunds/tata-sp-bse-sensex-index-fund-M_TAIX",
+            "name": "Tata S&P BSE Sensex Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 262.46787824300003
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.27
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.11429645663799032
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_LIIE",
+            "slug": "/mutualfunds/lic-mf-nifty-50-index-fund-M_LIIE",
+            "name": "LIC MF Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 257.3779
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.11429645663799032
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICI5X",
+            "slug": "/mutualfunds/icici-pru-nifty-midcap-150-index-fund-M_ICI5X",
+            "name": "ICICI Pru Nifty Midcap 150 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 214.2754788929
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05873567910563392
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ADWX",
+            "slug": "/mutualfunds/aditya-birla-sl-nifty-50-equal-weight-index-fund-M_ADWX",
+            "name": "Aditya Birla SL Nifty 50 Equal Weight Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.39
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.04444862202588512
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 213.2906
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOIX",
+            "slug": "/mutualfunds/motilal-oswal-nifty-200-momentum-30-index-fund-M_MOIX",
+            "name": "Motilal Oswal Nifty 200 Momentum 30 Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 206.9519
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.32
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.24287997035572942
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_SB1X",
+            "slug": "/mutualfunds/sbi-nifty-midcap-150-index-fund-M_SB1X",
+            "name": "SBI Nifty Midcap 150 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 198.3861
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.41
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.06032312989227267
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_LTND",
+            "slug": "/mutualfunds/hsbc-nifty-50-index-fund-M_LTND",
+            "name": "HSBC Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 194.73177920199998
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.1698572341703467
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_UTPW",
+            "slug": "/mutualfunds/uti-sp-bse-low-volatility-index-fund-M_UTPW",
+            "name": "UTI S&P BSE Low Volatility Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 189.9975
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.45
+                },
+                {
+                    "filter": "trackErr"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICIGX",
+            "slug": "/mutualfunds/icici-pru-nifty-smallcap-250-index-fund-M_ICIGX",
+            "name": "ICICI Pru Nifty Smallcap 250 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 183.035924102
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.07461018697202146
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_DSYA",
+            "slug": "/mutualfunds/dsp-nifty-midcap-150-quality-50-index-fund-M_DSYA",
+            "name": "DSP Nifty Midcap 150 Quality 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 179.851
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.34
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.10635920270479655
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_AXM0",
+            "slug": "/mutualfunds/axis-nifty-midcap-50-index-fund-M_AXM0",
+            "name": "Axis Nifty Midcap 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 167.969502
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.23
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.19684389754320555
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_UTSSN",
+            "slug": "/mutualfunds/uti-sp-bse-sensex-index-fund-M_UTSSN",
+            "name": "UTI S&P BSE Sensex Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 165.7278
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.09524704719832527
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_AXYX",
+            "slug": "/mutualfunds/axis-nifty-smallcap-50-index-fund-M_AXYX",
+            "name": "Axis Nifty Smallcap 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 159.859502
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.25
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.3444768207006097
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOTS",
+            "slug": "/mutualfunds/motilal-oswal-nifty-next-50-index-fund-M_MOTS",
+            "name": "Motilal Oswal Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 159.5301
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.35
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.06191058067891142
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_UT5Y",
+            "slug": "/mutualfunds/uti-nifty-midcap-150-quality-50-index-fund-M_UT5Y",
+            "name": "UTI Nifty Midcap 150 Quality 50 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 149.3415
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.46
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05556077753235641
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NAVT",
+            "slug": "/mutualfunds/navi-nifty-next-50-index-fund-M_NAVT",
+            "name": "Navi Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 143.60926600000002
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.11
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.1015968503448803
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_AD5X",
+            "slug": "/mutualfunds/aditya-birla-sl-nifty-midcap-150-index-fund-M_AD5X",
+            "name": "Aditya Birla SL Nifty Midcap 150 Index Fund",
+            "values": [
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.16033252945051418
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 135.8787
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.44
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_EDEE",
+            "slug": "/mutualfunds/edelweiss-msci-india-domestic--world-healthcare-45-index-fund-M_EDEE",
+            "name": "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.47
+                },
+                {
+                    "filter": "trackErr"
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 134.4901
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_SBISX",
+            "slug": "/mutualfunds/sbi-sp-bse-sensex-index-fund-M_SBISX",
+            "name": "SBI S&P BSE Sensex Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 130.5816
+                },
+                {
+                    "filter": "expRatio"
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.13652076765093288
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_KOIX",
+            "slug": "/mutualfunds/kotak-nifty-next-50-index-fund-M_KOIX",
+            "name": "Kotak Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.34
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.10000939955824154
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 126.4126
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ZERD",
+            "slug": "/mutualfunds/zerodha-nifty-largemidcap-250-index-fund-M_ZERD",
+            "name": "Zerodha Nifty LargeMidcap 250 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 118.5809
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.28
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.11588390742462908
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_HDCTN",
+            "slug": "/mutualfunds/hdfc-nifty-100-index-fund-M_HDCTN",
+            "name": "HDFC NIFTY 100 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.06349803146555018
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 110.0851
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ADIMX",
+            "slug": "/mutualfunds/aditya-birla-sl-nifty-smallcap-50-index-fund-M_ADIMX",
+            "name": "Aditya Birla SL Nifty Smallcap 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 100.42399999999999
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.5
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.46194817891187756
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_TAN5",
+            "slug": "/mutualfunds/tata-nifty-midcap-150-momentum-50-index-fund-M_TAN5",
+            "name": "Tata Nifty Midcap 150 Momentum 50 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.32
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.6429175685886955
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 99.612190231
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_AXXS",
+            "slug": "/mutualfunds/axis-nifty-it-index-fund-M_AXXS",
+            "name": "Axis NIFTY IT Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 92.52330099999999
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.29
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 4.946496651166359
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_IDXN",
+            "slug": "/mutualfunds/bandhan-nifty-100-index-fund-M_IDXN",
+            "name": "Bandhan Nifty 100 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 92.33120000000001
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.09
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05556077753235641
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ID1V",
+            "slug": "/mutualfunds/bandhan-nifty100-low-volatility-30-index-fund-M_ID1V",
+            "name": "Bandhan Nifty100 Low Volatility 30 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 89.9578
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.34
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.4222619092459087
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_AXFX",
+            "slug": "/mutualfunds/axis-nifty-next-50-index-fund-M_AXFX",
+            "name": "Axis Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 89.646901
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.23
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.11588390742462908
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_HD1W",
+            "slug": "/mutualfunds/hdfc-nifty-100-equal-weight-index-fund-M_HD1W",
+            "name": "HDFC NIFTY 100 Equal Weight Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 88.006
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.4
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.08254744090521522
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_HDCTM",
+            "slug": "/mutualfunds/hdfc-nifty-smallcap-250-index-fund-M_HDCTM",
+            "name": "HDFC NIFTY Smallcap 250 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.1952564467565668
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 88.0059
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_WOMU",
+            "slug": "/mutualfunds/uti-nifty-500-value-50-index-fund-M_WOMU",
+            "name": "UTI Nifty 500 Value 50 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 85.8045
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.51
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.35558897620708096
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_EDNO",
+            "slug": "/mutualfunds/edelweiss-nifty-midcap150-momentum-50-index-fund-M_EDNO",
+            "name": "Edelweiss Nifty Midcap150 Momentum 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 75.6025
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.14
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.6111685528559204
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_LIII",
+            "slug": "/mutualfunds/lic-mf-sp-bse-sensex-index-fund-M_LIII",
+            "name": "LIC MF S&P BSE Sensex Index Fund",
+            "values": [
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.11112155506471282
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 73.6758
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.38
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NAVM",
+            "slug": "/mutualfunds/navi-nifty-midcap-150-index-fund-M_NAVM",
+            "name": "Navi Nifty Midcap 150 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.1
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.1285835137177391
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 71.55537
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_LTNF",
+            "slug": "/mutualfunds/hsbc-nifty-next-50-index-fund-M_LTNF",
+            "name": "HSBC Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 68.360267137
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.35
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.05397332674571765
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_PRL0",
+            "slug": "/mutualfunds/sundaram-nifty-100-equal-weight-fund-M_PRL0",
+            "name": "Sundaram Nifty 100 Equal Weight Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 67.307905
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.57
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.32860231283422214
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_HDCYI",
+            "slug": "/mutualfunds/hdfc-nifty-midcap-150-index-fund-M_HDCYI",
+            "name": "HDFC NIFTY Midcap 150 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 65.13380000000001
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.18255684046345674
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NIY3",
+            "slug": "/mutualfunds/nippon-india-nifty-alpha-low-volatility-30-index-fund-M_NIY3",
+            "name": "Nippon India Nifty Alpha Low Volatility 30 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 63.8358
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.13493331686429413
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_EDAT",
+            "slug": "/mutualfunds/edelweiss-nifty-large-mid-cap-250-index-fund-M_EDAT",
+            "name": "Edelweiss NIFTY Large Mid Cap 250 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 62.477
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.14
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.08889724405177024
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_IDIX",
+            "slug": "/mutualfunds/lic-mf-nifty-next-50-index-fund-M_IDIX",
+            "name": "LIC MF Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 58.0303
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.32
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.12699606293110036
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOAS",
+            "slug": "/mutualfunds/motilal-oswal-sp-bse-enhanced-value-index-fund-M_MOAS",
+            "name": "Motilal Oswal S&P BSE Enhanced Value Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 54.7871
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.37
+                },
+                {
+                    "filter": "trackErr"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICI3X",
+            "slug": "/mutualfunds/icici-pru-nifty-200-momentum-30-index-fund-M_ICI3X",
+            "name": "ICICI Pru Nifty 200 Momentum 30 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.34
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.1920815451832893
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 48.222820749
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ADIX0",
+            "slug": "/mutualfunds/aditya-birla-sl-nifty-next-50-index-fund-M_ADIX0",
+            "name": "Aditya Birla SL Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 42.2768
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.35
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.11112155506471282
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_GRWY",
+            "slug": "/mutualfunds/groww-nifty-total-market-index-fund-M_GRWY",
+            "name": "Groww Nifty Total Market Index Fund",
+            "values": [
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.5000469977912076
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 41.346944356
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.2
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_UT5U",
+            "slug": "/mutualfunds/uti-nifty50-equal-weight-index-fund-M_UT5U",
+            "name": "UTI NIFTY50 Equal Weight Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.55
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.19049409439665055
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 39.9385
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ID2O",
+            "slug": "/mutualfunds/bandhan-nifty200-momentum-30-index-fund-M_ID2O",
+            "name": "Bandhan Nifty200 Momentum 30 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 38.393499999999996
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.46
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.19843134832984433
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICCAX",
+            "slug": "/mutualfunds/icici-pru-nifty-auto-index-fund-M_ICCAX",
+            "name": "ICICI Pru Nifty Auto Index Fund",
+            "values": [
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.2508172242889232
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 37.121809721700004
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.39
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_KO2Y",
+            "slug": "/mutualfunds/kotak-nifty-200-momentum-30-index-fund-M_KO2Y",
+            "name": "Kotak Nifty 200 Momentum 30 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 36.5366
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.4
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.5651324800433966
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_KOCX",
+            "slug": "/mutualfunds/kotak-nifty-smallcap-50-index-fund-M_KOCX",
+            "name": "Kotak Nifty Smallcap 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 34.4001
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.4
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.7635638283732409
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOTX",
+            "slug": "/mutualfunds/motilal-oswal-msci-eafe-top-100-select-index-fund-M_MOTX",
+            "name": "Motilal Oswal MSCI EAFE Top 100 Select Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 33.431
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.49
+                },
+                {
+                    "filter": "trackErr"
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOAA",
+            "slug": "/mutualfunds/motilal-oswal-sp-bse-low-volatility-index-fund-M_MOAA",
+            "name": "Motilal Oswal S&P BSE Low Volatility Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 30.9989
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.43
+                },
+                {
+                    "filter": "trackErr"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICCMX",
+            "slug": "/mutualfunds/icici-pru-nifty-pharma-index-fund-M_ICCMX",
+            "name": "ICICI Pru Nifty Pharma Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 28.4327202719
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.33
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.28732859238161457
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_ICXH",
+            "slug": "/mutualfunds/icici-pru-nifty50-equal-weight-index-fund-M_ICXH",
+            "name": "ICICI Pru Nifty50 Equal Weight Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 24.8092476022
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.35
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.06826038382546644
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_EDNX",
+            "slug": "/mutualfunds/edelweiss-nifty-50-index-fund-M_EDNX",
+            "name": "Edelweiss Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 23.952600000000004
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.05
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.10000939955824154
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_EDFA",
+            "slug": "/mutualfunds/edelweiss-nifty-smallcap-250-index-fund-M_EDFA",
+            "name": "Edelweiss Nifty Smallcap 250 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 21.0028
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.14
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.2333552656358969
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_BAXD",
+            "slug": "/mutualfunds/bandhan-nifty-it-index-fund-M_BAXD",
+            "name": "Bandhan Nifty IT Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 19.8887
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.35
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 1.7620703731690175
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_HDCSN",
+            "slug": "/mutualfunds/hdfc-sp-bse-500-index-fund-M_HDCSN",
+            "name": "HDFC S&P BSE 500 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 19.6503
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.3
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.17303213574362422
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NAVC",
+            "slug": "/mutualfunds/navi-nifty-india-manufacturing-index-fund-M_NAVC",
+            "name": "Navi Nifty India Manufacturing Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 17.045868
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.12
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.09365959641168652
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_EDS3",
+            "slug": "/mutualfunds/edelweiss-nifty-100-quality-30-index-fund-M_EDS3",
+            "name": "Edelweiss Nifty 100 Quality 30 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 15.2487
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.14
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.11112155506471282
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_UTISB",
+            "slug": "/mutualfunds/uti-sp-bse-housing-index-fund-M_UTISB",
+            "name": "UTI S&P BSE Housing Index Fund",
+            "values": [
+                {
+                    "filter": "aum",
+                    "doubleVal": 14.779300000000001
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.54
+                },
+                {
+                    "filter": "trackErr"
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_KORX",
+            "slug": "/mutualfunds/kotak-nifty-financial-services-ex-bank-index-fund-M_KORX",
+            "name": "Kotak Nifty Financial Services Ex-Bank Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 12.4459
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.23
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 1.0508924207548553
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_BAH5",
+            "slug": "/mutualfunds/bandhan-nifty-alpha-50-index-fund-M_BAH5",
+            "name": "Bandhan Nifty Alpha 50 Index Fund",
+            "values": [
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.33
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.5524328737502865
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 10.7146
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOTK",
+            "slug": "/mutualfunds/motilal-oswal-sp-bse-financials-ex-bank-30-index-fund-M_MOTK",
+            "name": "Motilal Oswal S&P BSE Financials ex Bank 30 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 8.4557
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.31
+                },
+                {
+                    "filter": "trackErr"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_EDNG",
+            "slug": "/mutualfunds/edelweiss-nifty-next-50-index-fund-M_EDNG",
+            "name": "Edelweiss Nifty Next 50 Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 7.705299999999999
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.09
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.17144468495698548
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_MOLQ",
+            "slug": "/mutualfunds/motilal-oswal-sp-bse-quality-index-fund-M_MOLQ",
+            "name": "Motilal Oswal S&P BSE Quality Index Fund",
+            "values": [
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 7.1354999999999995
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.37
+                },
+                {
+                    "filter": "trackErr"
+                },
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_KOHG",
+            "slug": "/mutualfunds/kotak-sp-bse-housing-index-fund-M_KOHG",
+            "name": "Kotak S&P BSE Housing Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 6.541799999999999
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.22
+                },
+                {
+                    "filter": "trackErr"
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_NASI",
+            "slug": "/mutualfunds/navi-sp-bse-sensex-index-fund-M_NASI",
+            "name": "Navi S&P BSE Sensex Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 5.8839
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.14
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.4063874013795212
+                }
+            ],
+            "sector": "Equity"
+        },
+        {
+            "mfId": "M_TASX",
+            "slug": "/mutualfunds/taurus-nifty-50-index-fund-M_TASX",
+            "name": "Taurus Nifty 50 Index Fund",
+            "values": [
+                {
+                    "filter": "subsector",
+                    "strVal": "Index Fund"
+                },
+                {
+                    "filter": "option",
+                    "strVal": "Growth"
+                },
+                {
+                    "filter": "aum",
+                    "doubleVal": 2.997
+                },
+                {
+                    "filter": "expRatio",
+                    "doubleVal": 0.9
+                },
+                {
+                    "filter": "trackErr",
+                    "doubleVal": 0.3238399604743059
+                }
+            ],
+            "sector": "Equity"
+        }
+    ]
+}
