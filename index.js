@@ -51,5 +51,6 @@ app.get("/export", async (request, result) => {
 });
 
 app.listen(PORT, () => {
-    console.log("App is running...");
+    console.log("App is running on http://localhost:4200");
+    console.log("Navigate to http://localhost:4200/export to download your file");
 });
