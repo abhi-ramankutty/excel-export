@@ -16,6 +16,7 @@ app.get("/export", async (request, result) => {
         { header: "AUM", key: "aum" },
         { header: "Expense Ratio", key: "expRatio" },
         { header: "Tracking Error", key: "trackErr" },
+        { header: "5Y CAGR", key: "ret5y" },
     ];
 
     const dataObj = JSON.parse(fs.readFileSync("tickertape.json", "utf-8"));
@@ -27,6 +28,7 @@ app.get("/export", async (request, result) => {
         const option = values.find((a) => a.filter == "option")?.strVal;
         const expRatio = values.find((a) => a.filter == "expRatio")?.doubleVal;
         const trackErr = values.find((a) => a.filter == "trackErr")?.doubleVal;
+        const ret5y = values.find((a) => a.filter == "ret5y")?.doubleVal;
 
         sheet.addRow({
             name: item.name,
@@ -34,6 +36,7 @@ app.get("/export", async (request, result) => {
             subsector,
             option,
             expRatio,
+            ret5y,
             trackErr,
         });
     });
